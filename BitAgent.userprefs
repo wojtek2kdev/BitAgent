@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\objects\Enemies\AI\AIFieldOfView.cs">
+    <Files>
+      <File FileName="Assets\scripts\audio\laserSound.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\gui\VirusHpBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\gui\VirusesHpBarsControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\objects\Enemies\Attributes\VirusStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\player\LaserShooting.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\objects\Enemies\AI\AIFieldOfView.cs" Line="10" Column="9" />
+      <File FileName="Assets\scripts\objects\Enemies\AI\AIBypassCollide.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\player\camera\VirusesCanSeeControl.cs" Line="23" Column="21" />
+      <File FileName="Assets\scripts\gui\ResponsiveGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\objects\Enemies\Attributes\LaserReaction.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\world\GenerateLevel.cs" Line="111" Column="3" />
+      <File FileName="Assets\scripts\player\camera\CameraSize.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
